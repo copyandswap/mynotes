@@ -1,3 +1,5 @@
+# legacy code
+
 > **What's Legacy Code**
 
 Legacy code is source code inherited from someone else or inherited from an older version of the software. It can also be any code that you don't understand that's difficult to change.
